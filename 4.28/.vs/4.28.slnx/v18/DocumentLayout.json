@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\homework\\4.28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4105D8F5-72B4-4288-9786-F8BC95D16D9A}|4.28\\4.28.vcxproj|C:\\homework\\4.28\\4.28\\4.28.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4105D8F5-72B4-4288-9786-F8BC95D16D9A}|4.28\\4.28.vcxproj|solutionrelative:4.28\\4.28.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4.28.cpp",
+              "DocumentMoniker": "C:\\homework\\4.28\\4.28\\4.28.cpp",
+              "RelativeDocumentMoniker": "4.28\\4.28.cpp",
+              "ToolTip": "C:\\homework\\4.28\\4.28\\4.28.cpp",
+              "RelativeToolTip": "4.28\\4.28.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-21T11:20:11.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
